@@ -1,0 +1,44 @@
+body{
+    margin:0;
+    padding:10px;
+    font-family : Arial,Helvetica;
+    min-width: 400px;
+}
+h1{
+    color:#ac091e
+}
+input{
+    width:100%;
+    padding:10px;
+    box-sizing:border-box;
+    border:3px #5f9341;
+    margin:4px;
+    background:black;
+    color:white;
+}
+button{
+    margin:4px 4px;;
+    font-weight:bold;
+    background:#5f9341;
+    color:aliceblue;
+    border:2px solid #5f9341;
+    padding:6px;
+}
+#del{
+    background:white;
+    color:#5f9341;
+}
+ul{
+    background:ghostwhite;
+    border:2px solid black;
+  margin-top:5px;
+  border-radius: 9px;}
+  
+li{
+    
+    /* width:50%; */
+ margin-top:5px;
+}
+ul li a{
+  color:#096e1f;
+}
